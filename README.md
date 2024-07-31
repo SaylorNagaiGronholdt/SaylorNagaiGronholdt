@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SaylorNagaiGronholdt
-- 👀 I’m interested in Computer Science and Engineering.
-- 🌱 I’m currently learning Computer Engineering. (Java, Html) [about to go to college :)]
-- 💞️ I’m looking to collaborate on websites, java programs, open source software.
-- 📫 How to reach me saylorngronholdt@gmail.com      any experiance I can get is more than appreciated!
+- 👋 Hi, I’m Nagai
+- 👀 I’m interested in an My Dog Tahani, an Angel I'll Never Catch, Adventure Time, Computer Science, Painting, Math and all of its applications to modern lifes problems.
+- 🌱 I’m currently learning Computer Science (C++) [about to go to college this fall!! :)]
+- 💞️ I’m looking to collaborate on ANYTHING. Including (but not limited to) websites, programs, open source software, open source software, open source software, open source software, etc...
+- 📫 How to reach me | saylorngronholdt@gmail.com | or hit my line at +1 (907) 386-1179 😎 |
+- 🐾 lets give what we get.
 
 <!---
 SaylorNagaiGronholdt/SaylorNagaiGronholdt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
