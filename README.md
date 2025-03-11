@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science (C++/Java) [MADE IT TO COLLEGE I LOVE IT HERE!! :)]
 - 💞️ I’m looking to collaborate on ANYTHING. Including (but not limited to) DESIGN, websites, programs, open source software, open source software, open source software, open source software, etc...
 - 📫 How to reach me | saylorngronholdt@gmail.com | or hit my line at +1 (907) 386-1179 😎 |
-- 🐾 lets give what we get and do what we can.
+- 🐾 Lets give what we get and do what we can.
 - 🫂 "You are not a drop in the ocean, you are the entire ocean in a drop." - Rumi
 
 <!---
